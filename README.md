@@ -42,7 +42,7 @@ Clone the Repository:git clone https://github.com/Viswa-jithS/CodeBlooded.git cd
 # Run
 Using VS Code Live Server Extension: If you're using Visual Studio Code:
 1.Install the Live Server extension from the Extensions panel. 
-2.Right-click on your index.html file and select Open with Live Server. 
+2.Right-click on your PSWD.html file and select Open with Live Server. 
 3.Your default browser will open automatically to view the website.
 
 ### Project Documentation: Impossible Password Creator
